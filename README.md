@@ -13,5 +13,7 @@ Spis:
 8. Algorytmy zachłanne: kodowanie Huffmana w kompresji danych
 
 
-ToDo
--dodać brakujące sprawozdania
+
+
+ToDo:
+- dodać brakujące sprawozdania
