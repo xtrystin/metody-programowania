@@ -11,6 +11,8 @@ Spis:
 6. Programowanie dynamiczne - algorytmy unrankingowe 
 7. Generacja sprzętowa liczb losowych na rejestrze przesuwającym LFSR z liniowym sprzężeniem zwrotnym
 8. Algorytmy zachłanne: kodowanie Huffmana w kompresji danych
+9. Algorytmy wyszukiwania lokalnego i z listą tabu - algorytm WalkSAT, algorytm GSAT z listą tabu
+10. Geometria obliczeniowa – algorytm Jarvisa
 
 
 
